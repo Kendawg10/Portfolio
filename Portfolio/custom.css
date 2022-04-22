@@ -1,0 +1,26 @@
+
+/* .jumbotron {
+	background-image: url('../images/RollingTray1.jpg');
+	background-size: cover;
+} */
+
+.nav-link {
+    color: white;
+}
+
+.pic1 {
+    width: 40%;
+  height: 40%;
+  border-radius: 50%;
+
+}
+
+.socials {
+    font-size: 20px;
+    color: red;
+    background-color: red;
+}
+
+.desc {
+    font-size:large
+}
