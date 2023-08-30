@@ -3,7 +3,13 @@
 	background-image: url('../images/RollingTray1.jpg');
 	background-size: cover;
 } */
+*{
+    font-family: 'Playfair Display', serif;
+}
 
+h1, h4, h3 {
+    font-weight: 700;
+}
 .nav-link {
     color: white;
 }
@@ -31,4 +37,11 @@
 }
 .code:hover{
     background-color: #009300;
+}
+.lead{
+    font-family: 'Playfair Display', serif;
+}
+
+li{
+    font-family: 'Playfair Display', serif;
 }
