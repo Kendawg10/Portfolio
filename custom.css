@@ -1,4 +1,4 @@
--
+
 /* .jumbotron {
 	background-image: url('../images/RollingTray1.jpg');
 	background-size: cover;
@@ -8,7 +8,6 @@
 }
 
 h1, h4, h3 {
-    font-family: 'Playfair Display', serif;
     font-weight: 700;
 }
 .nav-link {
@@ -43,7 +42,6 @@ h1, h4, h3 {
     font-family: 'Playfair Display', serif;
 }
 
-li {
+li{
     font-family: 'Playfair Display', serif;
-
 }
