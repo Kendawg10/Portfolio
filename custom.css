@@ -1,17 +1,24 @@
-
+-
 /* .jumbotron {
 	background-image: url('../images/RollingTray1.jpg');
 	background-size: cover;
 } */
+*{
+    font-family: 'Playfair Display', serif;
+}
 
+h1, h4, h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
 .nav-link {
     color: white;
 }
 
 .pic1 {
-    width: 40%;
-  height: 40%;
-  border-radius: 50%;
+  max-width: 20%;
+  height: 20vh;
+  border-radius: 80%;
 
 }
 
@@ -23,4 +30,20 @@
 
 .desc {
     font-size:large
+}
+
+.code {
+    background-color: green;
+    border-color: #009300;
+}
+.code:hover{
+    background-color: #009300;
+}
+.lead{
+    font-family: 'Playfair Display', serif;
+}
+
+li {
+    font-family: 'Playfair Display', serif;
+
 }
