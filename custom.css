@@ -16,7 +16,7 @@ h1, h4, h3 {
 
 .pic1 {
   max-width: 20%;
-  height: 20vh;
+  height: 10vh;
   border-radius: 80%;
 
 }
@@ -50,4 +50,10 @@ li{
 }
 .skills {
     max-width: 50%;
+}
+
+@media screen (min-width:380px) {
+    .pic1 {
+        height: 10vh;      
+      }
 }
